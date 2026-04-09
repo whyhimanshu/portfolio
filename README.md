@@ -2,7 +2,7 @@
 
 A modern, visually stunning personal portfolio website built with **React 19**, **Vite 8**, **Tailwind CSS 4**, and **Three.js**. Features an immersive 3D particle galaxy background, glassmorphism UI, smooth animations, and a fully responsive dark-mode design in a blue, black, and white color palette.
 
-> **Live URL**: _Coming Soon_  
+> **Live URL**: https://himanshuverma.me  
 > **Author**: Himanshu Verma — Software Development Engineer  
 > **Contact**: [vermahim402@gmail.com](mailto:vermahim402@gmail.com), [himanshuverma1.it27@gmail.com](mailto:himanshuverma1.it27@gmail.com)
 
